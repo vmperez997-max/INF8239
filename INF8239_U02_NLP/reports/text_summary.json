@@ -1,0 +1,27 @@
+{
+  "selected": "ComplementNB",
+  "train": 2383,
+  "test": 596,
+  "classes": {
+    "0": 1491,
+    "1": 1488
+  },
+  "confusion": [
+    [
+      244,
+      54
+    ],
+    [
+      59,
+      239
+    ]
+  ],
+  "errors": 113,
+  "vocabulary": 4457,
+  "model_bytes": 175406,
+  "model_sha256": "08a500876344818a12d97e78def0e457d897d598ae86a76499705374f9ded6de",
+  "processed_sha256": "79dd33e1a08d1473f40e8410d03a63ffc7c72a9f926587659e0d047bf2ce520b",
+  "selection": "Mayor F1 macro en la partici\u00f3n compartida; sin test independiente posterior.",
+  "language": "English",
+  "scope": "Amazon, IMDb, Yelp; etiquetas polarizadas"
+}
