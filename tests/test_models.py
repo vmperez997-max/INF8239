@@ -15,8 +15,3 @@ def test_svm_rejects_non_positive_c():
 def test_pipeline_contains_scaler_and_model():
     assert list(build_svm().named_steps) == ["scale", "model"]
 
-    from pathlib import Path
-import joblib
-Path("reports").mkdir(exist_ok=True)
-cv_results[columns].to_csv("reports/svm_cv_results.csv", index=False)
-joblib.dump(best, "reports/svm_best.joblib")
