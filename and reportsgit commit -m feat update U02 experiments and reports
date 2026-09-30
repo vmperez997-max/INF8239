@@ -1,0 +1,37 @@
+ INF8239_U02_NLP/.gitignore                         |    2 [32m+[m
+ INF8239_U02_NLP/app/streamlit_app.py               |   33 [32m+[m
+ INF8239_U02_NLP/docs/CONCLUSION_TEXT.md            |   13 [32m+[m
+ .../docs/Entrega_U02_LAB04_Victor_Perez.docx       |  Bin [31m0[m -> [32m42875[m bytes
+ .../Unidad 02. Ejercicio 03 - Victor_Perez.docx    |  Bin [31m0[m -> [32m73810[m bytes
+ .../Unidad 02. Ejercicio 03 - Victor_Perez.pdf     |  Bin [31m0[m -> [32m389396[m bytes
+ INF8239_U02_NLP/models/model_metadata.json         |   27 [32m+[m
+ INF8239_U02_NLP/models/text_model.joblib           |  Bin [31m0[m -> [32m175406[m bytes
+ INF8239_U02_NLP/pyproject.toml                     |    2 [32m+[m[31m-[m
+ INF8239_U02_NLP/reports/confusion_text.png         |  Bin [31m0[m -> [32m31549[m bytes
+ INF8239_U02_NLP/reports/error_analysis.csv         |  114 [32m+[m
+ INF8239_U02_NLP/reports/text_metrics.csv           |    4 [32m+[m
+ INF8239_U02_NLP/reports/text_split.csv             | 2980 [32m+++++++++++++++[m
+ INF8239_U02_NLP/reports/text_summary.json          |   27 [32m+[m
+ INF8239_U02_NLP/scripts/train_text.py              |    7 [32m+[m
+ INF8239_U02_NLP/src/inf8239_u02/text_model.py      |   79 [32m+[m
+ INF8239_U02_NLP/tests/test_text_model.py           |   41 [32m+[m
+ INF8239_U02_NLP/uv.lock                            |  726 [32m++++[m
+ docs/diccionario_datos.md                          |   22 [31m-[m
+ notebooks/00_verificacion.ipynb                    |    4 [32m+[m[31m-[m
+ notebooks/01_svm_guiada.ipynb                      | 2753 [32m+++++++++++++[m[31m-[m
+ reports/lab03/.mplconfig/fontlist-v3.11.0.json     | 4007 [32m++++++++++++++++++++[m
+ reports/lab03/configuraciones.csv                  |    7 [32m+[m
+ reports/lab03/mediciones.csv                       |   19 [32m+[m
+ reports/lab03/pareto.png                           |  Bin [31m0[m -> [32m75670[m bytes
+ reports/lab03/particion.csv                        |  570 [32m+++[m
+ reports/lab03/pca.png                              |  Bin [31m0[m -> [32m101336[m bytes
+ reports/lab03/resultados.csv                       |    7 [32m+[m
+ reports/lab03/resumen.json                         |   28 [32m+[m
+ reports/lab03/tsne_10.csv                          |  456 [32m+++[m
+ reports/lab03/tsne_10.png                          |  Bin [31m0[m -> [32m100348[m bytes
+ reports/lab03/tsne_30.csv                          |  456 [32m+++[m
+ reports/lab03/tsne_30.png                          |  Bin [31m0[m -> [32m84762[m bytes
+ reports/lab03/validacion_cruzada.csv               |   31 [32m+[m
+ src/inf8239_u01/lab03.py                           |  187 [32m+[m
+ tests/test_lab03.py                                |   32 [32m+[m
+ 36 files changed, 12448 insertions(+), 186 deletions(-)
