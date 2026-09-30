@@ -1,0 +1,11 @@
+[project]
+name = "inf8239-u02-nlp"
+version = "0.1.0"
+requires-python = ">=3.12,<3.13"
+dependencies = []
+[dependency-groups]
+dev = ["pytest>=8,<10"]
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+

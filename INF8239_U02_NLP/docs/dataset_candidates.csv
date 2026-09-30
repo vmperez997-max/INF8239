@@ -1,0 +1,16 @@
+criterio,Sentiment Labelled Sentences,SMS Spam Collection
+Ficha,https://archive.ics.uci.edu/dataset/331/sentiment+labelled+sentences,https://archive.ics.uci.edu/dataset/228/sms+spam+collection
+Descarga,https://archive.ics.uci.edu/static/public/331/sentiment+labelled+sentences.zip,https://archive.ics.uci.edu/static/public/228/sms+spam+collection.zip
+Responsable,Dimitrios Kotzias,Tiago Almeida y José Hidalgo
+Fecha de ficha,2015-05-29,2012-06-21
+Licencia,CC BY 4.0,CC BY 4.0
+Idioma,Inglés,Principalmente inglés
+Tamaño,3000 textos verificados,5574 mensajes según ficha UCI; no descargado
+Target,0 negativo y 1 positivo,ham y spam
+Pertinencia,Sentimiento explícito en reseñas,Filtro de mensajes comerciales no solicitados
+Representatividad,Amazon IMDb Yelp; sin clase neutral,SMS históricos de fuentes heterogéneas
+Calidad,21 duplicados normalizados; sin nulos; balance 1500/1500,Sin ausentes según ficha; balance y duplicados pendientes de auditoría
+Riesgo,Opiniones ofensivas y posibles identificadores en texto libre,Posibles teléfonos y datos personales en mensajes
+Reproducibilidad,ZIP público y SHA-256 registrado,ZIP público; hash no verificado
+Decisión,Propuesto para análisis exploratorio; aprobación docente pendiente,Descartado para este objetivo porque sus etiquetas no expresan sentimiento
+

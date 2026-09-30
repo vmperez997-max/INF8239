@@ -1,0 +1,15 @@
+{
+  "retrieved_utc": "2026-09-30T06:23:54.635870+00:00",
+  "mode": "url",
+  "source": "https://archive.ics.uci.edu/static/public/331/sentiment+labelled+sentences.zip",
+  "source_sha256": "afc26626d710899948693e1a61405dce197f57ffa719fa1130d346b4cc095343",
+  "source_bytes": 84188,
+  "csv_sha256": "5af8b5e633e737bd253ce08c397a999d26db6438d2af2312aab1f728e113f32d",
+  "rows": 3000,
+  "columns": [
+    "text",
+    "label",
+    "source",
+    "source_row"
+  ]
+}
