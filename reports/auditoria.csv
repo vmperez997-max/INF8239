@@ -1,0 +1,31 @@
+,tipo,ausentes,unicos
+mean radius,float64,0,456
+mean texture,float64,0,479
+mean perimeter,float64,0,522
+mean area,float64,0,539
+mean smoothness,float64,0,474
+mean compactness,float64,0,537
+mean concavity,float64,0,537
+mean concave points,float64,0,542
+mean symmetry,float64,0,432
+mean fractal dimension,float64,0,499
+radius error,float64,0,540
+texture error,float64,0,519
+perimeter error,float64,0,533
+area error,float64,0,528
+smoothness error,float64,0,547
+compactness error,float64,0,541
+concavity error,float64,0,533
+concave points error,float64,0,507
+symmetry error,float64,0,498
+fractal dimension error,float64,0,545
+worst radius,float64,0,457
+worst texture,float64,0,511
+worst perimeter,float64,0,514
+worst area,float64,0,544
+worst smoothness,float64,0,411
+worst compactness,float64,0,529
+worst concavity,float64,0,539
+worst concave points,float64,0,492
+worst symmetry,float64,0,500
+worst fractal dimension,float64,0,535
